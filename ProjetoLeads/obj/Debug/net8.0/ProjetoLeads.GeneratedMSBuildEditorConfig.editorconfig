@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjetoLeads
+build_property.RootNamespace = ProjetoLeads
+build_property.ProjectDir = C:\Users\ottov\Source\repos\ProjetoLeads\ProjetoLeads\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ottov\Source\repos\ProjetoLeads\ProjetoLeads
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ottov/Source/repos/ProjetoLeads/ProjetoLeads/Views/Aluno/ConsultaAlunosAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cQ29uc3VsdGFBbHVub3NBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ottov/Source/repos/ProjetoLeads/ProjetoLeads/Views/Aluno/MatricularAluno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9cTWF0cmljdWxhckFsdW5vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ottov/Source/repos/ProjetoLeads/ProjetoLeads/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ottov/Source/repos/ProjetoLeads/ProjetoLeads/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ottov/Source/repos/ProjetoLeads/ProjetoLeads/Views/Leads/CadastroLeads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZHNcQ2FkYXN0cm9MZWFkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ottov/Source/repos/ProjetoLeads/ProjetoLeads/Views/Leads/ConsultaLeads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZHNcQ29uc3VsdGFMZWFkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ottov/Source/repos/ProjetoLeads/ProjetoLeads/Views/Leads/ConsultaLeadsAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZHNcQ29uc3VsdGFMZWFkc0FsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ottov/Source/repos/ProjetoLeads/ProjetoLeads/Views/Leads/ResultadoConsultaLeads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZHNcUmVzdWx0YWRvQ29uc3VsdGFMZWFkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ottov/Source/repos/ProjetoLeads/ProjetoLeads/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ottov/Source/repos/ProjetoLeads/ProjetoLeads/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ottov/Source/repos/ProjetoLeads/ProjetoLeads/Views/Turma/CadastrarTurma.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybWFcQ2FkYXN0cmFyVHVybWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ottov/Source/repos/ProjetoLeads/ProjetoLeads/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ottov/Source/repos/ProjetoLeads/ProjetoLeads/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ottov/Source/repos/ProjetoLeads/ProjetoLeads/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qs0ks8gyoz

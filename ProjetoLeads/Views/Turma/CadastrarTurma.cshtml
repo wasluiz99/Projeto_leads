@@ -1,0 +1,61 @@
+﻿@model ProjetoLeads.Models.Turma
+
+@{
+    ViewData["Title"] = "CadastroTurma";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <h4 class="col-md-6 mb-3">Cadastro de turma</h4>
+        <hr />
+        <form asp-action="Cadastrarturma" method="post" class="needs-validation" novalidate>
+
+            <!-- Turma -->
+            <div class="col-md-6 mb-3">
+                <label asp-for="Descricao" class="form-label"></label>
+                <input asp-for="Descricao" class="form-control" placeholder="Digite uma turma.." required />
+                <span asp-validation-for="Descricao" class="text-danger"></span>
+            </div>
+
+            <!-- Curso de Interesse -->
+            <div class="col-md-6 mb-3">
+                <label asp-for="CursoId" class="form-label"></label>
+                <select asp-for="CursoId" class="form-select" asp-items="ViewBag.ListCursos">
+                    <option value="">Selecione um curso...</option>
+                </select>
+                <span asp-validation-for="CursoId" class="text-danger"></span>
+            </div>
+
+            <!-- Botão de Submit -->
+            <div class="col-md-8 d-flex gap-2">
+                <button type="submit" class="btn btn-primary">Enviar</button>
+                <a class="btn btn-secondary" href="javascript:history.go(-1)">Voltar</a>
+            </div>
+        </form>
+        <div class="row">
+            @if (TempData["MensagemSucesso"] != null)
+            {
+                <div id="mensagemSucesso" class="alert alert-success col-md-8 mt-5">
+                    @TempData["MensagemSucesso"]
+                </div>
+            }
+        </div>
+    </div>
+
+
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        setTimeout(function () {
+            var mensagem = document.getElementById('mensagemSucesso');
+            if (mensagem) {
+                mensagem.style.display = 'none';
+            }
+        }, 4000);
+    </script>
+}

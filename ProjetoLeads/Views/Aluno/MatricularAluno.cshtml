@@ -1,0 +1,89 @@
+﻿@model ProjetoLeads.Models.AlunoVm
+
+@{
+    ViewData["Title"] = "MatricularAluno";
+}
+
+
+<div class="container mt-5">
+    <div class="row">
+        <h4 class="col-md-6 mb-3">Matricular Aluno</h4>
+        <hr />
+        @if (Model != null)
+        {
+            <form asp-action="MatricularAluno">
+
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <input asp-for="CursoId" class="form-control" hidden />
+
+                <div class="col-md-6 mb-3">
+                    <label asp-for="Nome" class="control-label"></label>
+                    <input asp-for="Nome" class="form-control" readonly />
+                    <span asp-validation-for="Nome" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <label asp-for="Telefone" class="control-label"></label>
+                    <input asp-for="Telefone" class="form-control" readonly />
+                    <span asp-validation-for="Telefone" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <label asp-for="Email" class="control-label"></label>
+                    <input asp-for="Email" class="form-control" readonly />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <label asp-for="CursoDescricao" class="control-label"></label>
+                    <input asp-for="CursoDescricao" class="form-control" readonly />
+                    <span asp-validation-for="CursoDescricao" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-6 mb-3">
+                    <label asp-for="TurmaId" class="form-label"></label>
+                    <select asp-for="TurmaId" class="form-select" asp-items="ViewBag.ListTurma">
+                        <option value="">Selecione uma turma...</option>
+                    </select>
+                    <span asp-validation-for="TurmaId" class="text-danger"></span>
+                </div>
+
+                <div class="col-md-6 d-flex gap-2">
+                    <input type="submit" value="Cadastrar" class="btn btn-primary" />
+                    <a class="btn btn-secondary" href="javascript:history.go(-1)">Voltar</a>
+                </div>
+            </form>
+            <div class="row">
+                @if (TempData["MensagemSucesso"] != null)
+                {
+                    <div id="mensagemSucesso" class="alert alert-success col-md-8 mt-5">
+                        @TempData["MensagemSucesso"]
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <span>Nenhuma turma disponivel para esse curso!</span>
+        }
+    </div>
+</div>
+
+        
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        setTimeout(function () {
+            var mensagem = document.getElementById('mensagemSucesso');
+            if (mensagem) {
+                mensagem.style.display = 'none';
+            }
+        }, 4000);
+    </script>
+}

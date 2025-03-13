@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|c:\\users\\ottov\\source\\repos\\projetoleads\\projetoleads\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|solutionrelative:projetoleads\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|c:\\users\\ottov\\source\\repos\\projetoleads\\projetoleads\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|solutionrelative:projetoleads\\controllers\\turmacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|c:\\users\\ottov\\source\\repos\\projetoleads\\projetoleads\\views\\leads\\resultadoconsultaleads.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|solutionrelative:projetoleads\\views\\leads\\resultadoconsultaleads.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|c:\\users\\ottov\\source\\repos\\projetoleads\\projetoleads\\views\\leads\\consultaleadsall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|solutionrelative:projetoleads\\views\\leads\\consultaleadsall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|c:\\users\\ottov\\source\\repos\\projetoleads\\projetoleads\\views\\leads\\cadastroleads.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|solutionrelative:projetoleads\\views\\leads\\cadastroleads.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|c:\\users\\ottov\\source\\repos\\projetoleads\\projetoleads\\views\\turma\\cadastrarturma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|solutionrelative:projetoleads\\views\\turma\\cadastrarturma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|c:\\users\\ottov\\source\\repos\\projetoleads\\projetoleads\\controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|solutionrelative:projetoleads\\controllers\\leadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|c:\\users\\ottov\\source\\repos\\projetoleads\\projetoleads\\models\\testecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|solutionrelative:projetoleads\\models\\testecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|c:\\users\\ottov\\source\\repos\\projetoleads\\projetoleads\\models\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|solutionrelative:projetoleads\\models\\turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|c:\\users\\ottov\\source\\repos\\projetoleads\\projetoleads\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|solutionrelative:projetoleads\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|c:\\users\\ottov\\source\\repos\\projetoleads\\projetoleads\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C49A6CA-730E-4F48-89D5-1C5591B5C98A}|ProjetoLeads\\ProjetoLeads.csproj|solutionrelative:projetoleads\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultaLeadsAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Views\\Leads\\ConsultaLeadsAll.cshtml",
+              "RelativeDocumentMoniker": "ProjetoLeads\\Views\\Leads\\ConsultaLeadsAll.cshtml",
+              "ToolTip": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Views\\Leads\\ConsultaLeadsAll.cshtml",
+              "RelativeToolTip": "ProjetoLeads\\Views\\Leads\\ConsultaLeadsAll.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T14:44:49.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultadoConsultaLeads.cshtml",
+              "DocumentMoniker": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Views\\Leads\\ResultadoConsultaLeads.cshtml",
+              "RelativeDocumentMoniker": "ProjetoLeads\\Views\\Leads\\ResultadoConsultaLeads.cshtml",
+              "ToolTip": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Views\\Leads\\ResultadoConsultaLeads.cshtml",
+              "RelativeToolTip": "ProjetoLeads\\Views\\Leads\\ResultadoConsultaLeads.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T14:44:45.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TesteContext.cs",
+              "DocumentMoniker": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Models\\TesteContext.cs",
+              "RelativeDocumentMoniker": "ProjetoLeads\\Models\\TesteContext.cs",
+              "ToolTip": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Models\\TesteContext.cs",
+              "RelativeToolTip": "ProjetoLeads\\Models\\TesteContext.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAwEoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:41:47.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Turma.cs",
+              "DocumentMoniker": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Models\\Turma.cs",
+              "RelativeDocumentMoniker": "ProjetoLeads\\Models\\Turma.cs",
+              "ToolTip": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Models\\Turma.cs",
+              "RelativeToolTip": "ProjetoLeads\\Models\\Turma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:38:44.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "ProjetoLeads\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Models\\Aluno.cs",
+              "RelativeToolTip": "ProjetoLeads\\Models\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:38:39.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadastrarTurma.cshtml",
+              "DocumentMoniker": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Views\\Turma\\CadastrarTurma.cshtml",
+              "RelativeDocumentMoniker": "ProjetoLeads\\Views\\Turma\\CadastrarTurma.cshtml",
+              "ToolTip": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Views\\Turma\\CadastrarTurma.cshtml",
+              "RelativeToolTip": "ProjetoLeads\\Views\\Turma\\CadastrarTurma.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T14:29:11.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "ProjetoLeads\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "ProjetoLeads\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAvwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:25:28.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TurmaController.cs",
+              "DocumentMoniker": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Controllers\\TurmaController.cs",
+              "RelativeDocumentMoniker": "ProjetoLeads\\Controllers\\TurmaController.cs",
+              "ToolTip": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Controllers\\TurmaController.cs",
+              "RelativeToolTip": "ProjetoLeads\\Controllers\\TurmaController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:27:55.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoLeads\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetoLeads\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAADUAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T14:24:27.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadastroLeads.cshtml",
+              "DocumentMoniker": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Views\\Leads\\CadastroLeads.cshtml",
+              "RelativeDocumentMoniker": "ProjetoLeads\\Views\\Leads\\CadastroLeads.cshtml",
+              "ToolTip": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Views\\Leads\\CadastroLeads.cshtml",
+              "RelativeToolTip": "ProjetoLeads\\Views\\Leads\\CadastroLeads.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T14:20:33.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeadsController.cs",
+              "DocumentMoniker": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Controllers\\LeadsController.cs",
+              "RelativeDocumentMoniker": "ProjetoLeads\\Controllers\\LeadsController.cs",
+              "ToolTip": "C:\\Users\\ottov\\Source\\repos\\ProjetoLeads\\ProjetoLeads\\Controllers\\LeadsController.cs",
+              "RelativeToolTip": "ProjetoLeads\\Controllers\\LeadsController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:02:30.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

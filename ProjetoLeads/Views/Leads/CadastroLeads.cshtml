@@ -1,0 +1,79 @@
+﻿@model ProjetoLeads.Models.Lead
+
+@{
+    ViewData["Title"] = "CadastroLeads";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <h4 class="col-md-6 mb-3">Cadastro de interesse em curso</h4>
+        <hr />
+        <form asp-action="CadastroLeads" method="post" class="needs-validation" novalidate>
+
+            <!-- Nome -->
+            <div class="col-md-6 mb-3">
+                <label asp-for="Nome" class="form-label"></label>
+                <input asp-for="Nome" class="form-control" placeholder="Digite seu nome completo" required />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+
+            <!-- Telefone -->
+            <div class="col-md-6 mb-3">
+                <label asp-for="Telefone" class="form-label"></label>
+                <input asp-for="Telefone" id="Telefone" class="form-control" placeholder="(00) 00000-0000" required />
+                <span asp-validation-for="Telefone" class="text-danger"></span>
+            </div>
+
+            <!-- E-mail -->
+            <div class="col-md-6 mb-3">
+                <label asp-for="Email" class="form-label"></label>
+                <input asp-for="Email" class="form-control" placeholder="exemplo@email.com" required />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <!-- Curso de Interesse -->
+            <div class="col-md-6 mb-3">
+                <label asp-for="CursoInteresse" class="form-label"></label>
+                <select asp-for="CursoInteresse" class="form-select" asp-items="ViewBag.ListCursos">
+                    <option value="">Selecione um curso...</option>
+                </select>
+                <span asp-validation-for="CursoInteresse" class="text-danger"></span>
+            </div>
+
+            <!-- Botão de Submit -->
+            <div class="col-md-8 d-flex gap-2">
+                <button type="submit" class="btn btn-primary">Enviar</button>
+                <a class="btn btn-secondary" href="javascript:history.go(-1)">Voltar</a>
+            </div>
+        </form>
+        <div class="row">
+            @if (TempData["MensagemSucesso"] != null)
+            {
+                <div id="mensagemSucesso" class="alert alert-success col-md-8 mt-5">
+                    @TempData["MensagemSucesso"]
+                </div>
+            }
+        </div>
+    </div>
+
+
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        $(document).ready(function () {
+            $('#Telefone').mask('(00) 00000-0000');
+        });
+
+        setTimeout(function () {
+            var mensagem = document.getElementById('mensagemSucesso');
+            if (mensagem) {
+                mensagem.style.display = 'none';
+            }
+        }, 4000);
+    </script>
+}
